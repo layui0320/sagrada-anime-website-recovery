@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="ja">
+<meta charset="utf-8">
+
+<title>アニメ「サクラダリセット」公式サイト</title>
+
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+
+<meta name="keywords" content="サクラダリセット,サクラダ,アニメ,アスミックエース,角川文庫,河野裕,david production,高山カツヒコ,下谷智之,川面真也">
+
+<meta name="description" content="「TVアニメ「サクラダリセット」公式サイト。石川界人、花澤香菜、悠木碧他出演の青春SFストーリーがTOKYO MX、関西テレビ、BS1、AT-Xにて4月より放送開始。あの日を取り戻すために、僕らは何度でも「リセット」する。―">
+
+<meta property="og:title" content="TVアニメ「サクラダリセット」公式サイト">
+
+<meta property="og:type" content="website">
+
+<meta property="og:url" content="http://sagrada-anime.com/">
+
+<meta property="og:image" content="http://sagrada-anime.com/img/ogp_renew.png">
+
+<meta property="og:site_name" content="TVアニメ「サクラダリセット」公式サイト">
+
+<meta property="og:description" content="「TVアニメ「サクラダリセット」公式サイト。石川界人、花澤香菜、悠木碧他出演の青春SFストーリーがTOKYO MX、関西テレビ、BS1、AT-Xにて4月より放送開始。あの日を取り戻すために、僕らは何度でも「リセット」する。―">
+
+
+
+<meta name="twitter:title" content="TVアニメ「サクラダリセット」公式サイト。2017年春TVアニメ化決定！">
+
+<meta name="twitter:description" content="「TVアニメ「サクラダリセット」公式サイト。石川界人、花澤香菜、悠木碧他出演の青春SFストーリーがTOKYO MX、関西テレビ、BS1、AT-Xにて4月より放送開始。あの日を取り戻すために、僕らは何度でも「リセット」する。―">
+
+<meta name="twitter:url" content="http://sagrada-anime.com/">
+
+<meta name="twitter:card" content="summary_large_image">
+
+<meta name="twitter:image:src" content="http://sagrada-anime.com/img/ogp_renew.png">
+
+<meta name="twitter:site" content="@sagrada_anime">
+
+<meta name="twitter:creator" content="@sagrada_anime">
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amiri">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/notosansjp.css">
+
+<link rel="shortcut icon" href="/img/common/favicon.ico" type="image/vnd.microsoft.icon">    <script src="/img/story/js/common/lib/modernizr.min.js"></script>
+    <link rel="stylesheet" href="/img/story/js/common/lib/colorbox/colorbox.css">
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="../sp/">
+    <script>
+        var agent = navigator.userAgent.toLowerCase();
+        if(agent.search('iphone')>0 || agent.search('ipad')>0 || agent.search('ipod')>0 || agent.search('android')>0){
+            location.href = 'sp/';
+        }
+    </script>
+
+    <link rel="stylesheet" href="/img/story/css/reset.css" type="text/css">
+    <link rel="stylesheet" href="/img/story/css/jquery.mb.YTPlayer.css" type="text/css">
+    <link rel="stylesheet" href="/img/story/css/topstyle.css" type="text/css">
+
+    <script src="/img/story/js/jquery-2.1.3.min.js"></script>
+    <script src="/img/story/js/jquery.mb.browser.min.js"></script>
+    <script src="/img/story/js/jquery.mb.storage.min.js"></script>
+    <script src="/img/story/js/jquery.mb.simpleSlider.min.js"></script>
+    <script src="/img/story/js/jquery.mb.CSSAnimate.min.js"></script>
+    <script src="/img/story/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="/img/story/js/colorbox/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/img/story/js/jquery.imgloader.min.js"></script>
+    <script type="text/javascript" src="/img/story/js/loadgo.min.js"></script>
+    <script type="text/javascript" src="/img/story/js/jquery.mb.YTPlayer.src.js"></script>
+    <script type="text/javascript" src="/img/story/js/velocity.js"></script>
+    <script type="text/javascript" src="/img/story/js/jquery.cookie.min.js"></script>
+    <script type="text/javascript" src="/img/story/js/index.js"></script>
+
+
+</head>
+<body>
+
+<div id="loader">
+    <img src="/images/loading/loading_logo_on.png" id="loading">
+</div>
+<div id="white"></div>
+<div id="noize"></div>
+
+<div class="all">
+
+    <!-- 左側目盛り -->
+    <div class="measure-left"></div>
+    <!-- 右側目盛り -->
+    <div class="measure-right"></div>
+    <!-- 目盛り横ライン -->
+    <div class="centerline"></div>
+
+    <div class="op">
+        <img class="ri" src="/images/intro/intro_text-ri.png"/>
+        <img class="se" src="/images/intro/intro_text-se.png"/>
+        <img class="tsu" src="/images/intro/intro_text-tsu.png"/>
+        <img class="to" src="/images/intro/intro_text-to.png"/>
+    </div>
+
+    <div class="op-decoline">
+        <p class="decoline-red1"><img src="/images/intro/intoro_bg_decoline.png"/></p>
+        <p class="decoline-red2"><img src="/images/intro/intoro_bg_decoline.png"/></p>
+        <p class="decoline-red3"><img src="/images/intro/intoro_bg_decoline.png"/></p>
+    </div>
+
+    <!--header navigation-->
+    <div class="top">
+        <header>
+            <div class="upper-nav">
+                <img src="/images/header/nav/header_nav_another-window.png" alt=""/>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="http://sagradaanime.tumblr.com/" target="_blank"><img src="/images/header/nav/header_nav_news.png" alt="NEWS"/></a></li>
+                    <li class="nav_newIc"><a href="story/"><img src="/images/header/nav/header_nav_story.png" alt="STORY"/></a></li>
+                    <li class="nav_newIc"><a href="keyword/"><img src="/images/header/nav/header_nav_keyword.png" alt="KEYWORD"/></a></li>
+                    <li><a href="character/"><img src="/images/header/nav/header_nav_character.png" alt="CHARACTER"/></a></li>
+                    <li><a href="staff/"><img src="/images/header/nav/header_nav_staff.png" alt="STAFF"/></a></li>
+                    <li><a href="onair/"><img src="/images/header/nav/header_nav_onair.png" alt="ON AIR"/></a></li>
+                    <li><a href="movie/"><img src="/images/header/nav/header_nav_movie.png" alt="MOVIE"/></a></li>
+                    <li><a href="music/"><img src="/images/header/nav/header_nav_music.png" alt="MUSIC"/></a></li>
+                    <li><a href="bddvd/"><img src="/images/header/nav/header_nav_bluraydvd.png" alt="Blu-ray/DVD"/></a></li>
+                    <li><a href="original/"><img src="/images/header/nav/header_nav_original.png" alt="ORIGINAL"/></a></li>
+                    <li class="nav_newIc"><a href="goods/"><img src="/images/header/nav/header_nav_goods.png" alt="GOODS"/></a></li>
+                    <li class="nav_newIc"><a href="special/"><img src="/images/header/nav/header_nav_special.png" alt="SPECIAL"/></a></li>
+                </ul>
+            </nav>
+        </header>
+
+
+        <!--contents-->
+        <section id="contents">
+            <div id="main">
+
+                <div class="visual">
+                    <!--visualの左側ボックス（幅固定360px）-->
+                    <div class="visual-left">
+                        <div class="logo">
+                            <img class="logoTxt" src="/images/contents/main/visual/contents_visual_logo.png" alt="サクラダリセット"/>
+                            <img class="dayTxt" src="/images/contents/main/visual/contents_visual_text-onair2.png" alt="Blu-ray&amp;DVD BOX 好評発売中！"/>
+                        </div>
+                        <div class="movie">
+                            <img src="/images/contents/main/movie/contents_movie_text+line.png" alt="movie"/>
+                            <a href="movie/pv2.php" class="movieCbox cboxElement"><img src="/images/contents/main/movie/contents_movie_bg.png" alt="movie"/></a>
+                        </div>
+                        <div class="news">
+
+                        </div>
+                    </div>
+
+                    <!--visualの中央ボックス（幅は可変）-->
+                    <div class="visual-center">
+                    </div>
+
+                    <!--visualの右側ボックス（幅固定200px）-->
+                    <div class="visual-right">
+                        <!--img class="catch" src="/images/contents/main/visual/contents_visual_catch-text-renew.png" alt="あの日を取り戻すために、僕らは何度も「リセット」する。" /-->
+
+                        <div class="soundBtn bgm">
+                            <a href="javascript:void(0)"><img src="/images/header/nav/sound_off.png" alt=""/></a>
+                        </div>
+
+                        <div class="sns">
+                            <img src="/images/contents/main/sns/contens_sns_text-share+line.png" alt="share"/>
+                            <a href="http://twitter.com/share?url=http://sagrada-anime.com/&amp;text=2017年春放送開始！TVアニメ「サクラダリセット」公式サイト&amp;hashtags=sagrada_anime" onclick="window.open(encodeURI(decodeURI(this.href)),'tweetwindow','width=550, height=450, personalbar=0, toolbar=0, scrollbars=1, resizable=!'); return false;"><img src="/images/contents/main/sns/contens_sns_twitter.png" alt="twitter"/></a>
+                            <a href="http://www.facebook.com/share.php?u=http://sagrada-anime.com/" onclick="window.open(this.href, 'FBwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes'); return false;"><img src="/images/contents/main/sns/contens_sns_facebook.png" alt="facebook"/></a>
+                        </div>
+                    </div>
+
+                    <!--動く背景画像-->
+                    <div class="visual-bg">
+                        <img class="left1" src="/images/contents/main/visual_bg/contents_visual_bg_left200_fade.png" alt=""/>
+                        <img class="left2" src="/images/contents/main/visual_bg/contents_visual_bg_left280.png" alt=""/>
+                        <img class="left3" src="/images/contents/main/visual_bg/contents_visual_bg_left360.png" alt=""/>
+                        <img class="right1" src="/images/contents/main/visual_bg/contents_visual_bg_right280_fade.png" alt=""/>
+                        <img class="right2" src="/images/contents/main/visual_bg/contents_visual_bg_right440_fade.png" alt=""/>
+                    </div>
+
+                    <!--div class="main-bnr">
+                        <ul>
+                            <li><a href="https://sagradaanime.tumblr.com/post/161347359499/%E7%AC%AC2%E3%82%AF%E3%83%BC%E3%83%AB%E7%AA%81%E5%85%A5tv%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%80%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E7%99%BB%E5%A3%87%E4%BB%98%E3%81%8D%E5%85%88%E8%A1%8C%E4%B8%8A%E6%98%A0%E4%BC%9A" target="_blank"><img src="img/common/bnr/bnr_senkou0620.png" alt="6月20日(火)新宿バルト9にてキャスト登壇付き先行上映会開催！"></a></li>
+                            <li><a href="https://sagradaanime.tumblr.com/post/161540081554/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%80%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E7%AC%AC%EF%BC%91%E3%82%AF%E3%83%BC%E3%83%AB%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E4%B8%80%E6%8C%99%E9%85%8D%E4%BF%A1%E6%B1%BA%E5%AE%9A" target="_blank"><img src="img/common/bnr/bnr_furikaeri.png" alt="各配信サイトにて第1クール無料振り返り配信決定！"></a></li>
+	                    </ul>
+                    </div-->
+                </div>
+
+            </div>
+
+            <div id="bnrs">
+                <h3><img src="/images/contents/bnrs/contents_bnrs_text-pickup.png" alt="pickup"/></h3>
+                <div class="banar">
+                    <ul>
+                        <li><a href="http://sagrada-movie.jp/" target="_blank"><img src="/img/story/images/contents/bnrs/contents_bnrs_bnr2.png" alt=""/></a></li><!--
+                        --><li><a href="http://shoten.kadokawa.co.jp/bunko/character-novels/sp/sagradareset/" target="_blank"><img src="/img/story/images/contents/bnrs/contents_bnrs_bnr1.png" alt=""/></a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </section>
+
+        <section id="second">
+            <div class="chara-bg"><img src="/img/story/images/contents/twitter/chara-bg.png"/></div>
+            <div class="txt-1"><img src="/img/story/images/contents/twitter/txt-1.png"/></div>
+            <div class="txt-2"><img src="/img/story/images/contents/twitter/txt-2.png"/></div>
+            <div class="pattern"></div>
+            <div id="twitter">
+                <div class="post">
+                    <img src="/img/story/images/contents/twitter/contents_twitter_text-official+line.png" alt="official twitter" style="margin-bottom: 20px"/>
+                    <a class="twitter-timeline" width="400" height="370" href="https://twitter.com/sagrada_anime">Tweets by sagrada_anime</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            </div>
+
+            <div class="mov">
+                <div class="overlay"></div>
+                <a id="bgndVideo" class="player" data-property="{
+  videoURL:'CnBoJfkWo4A',
+  containment:'.mov',
+  autoPlay:true,
+  mute:true,
+  startAt:0,
+  opacity:1,
+  loop:true,
+  showControls:false,
+  printUrl:true,
+  onReady:function(){console.log('START')}}"></a>
+                <p><a href="#">MOVIE</a></p>
+            </div>
+            <footer>
+                <p>&copy;河野裕・椎名優 /KADOKAWA/アニメ「サクラダリセット」製作委員会</p>
+            </footer>
+        </section>
+    </div>
+</div>
+
+<audio id="sound-file-1" preload="auto">
+    <source src="/img/story/images/bgm02.mp3" type="audio/mp3">
+    <source src="/img/story/images/bgm02.ogg" type="audio/ogg">
+</audio>
+<!--script src="/js/common/lib/package.min.js"></script>
+<script src="/js/common/common.min.js"></script>
+<script src="/js/index/page.min.js"></script-->
+
+</body>
+</html>

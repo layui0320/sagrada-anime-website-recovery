@@ -1,0 +1,189 @@
+@charset "utf-8";
+/** RESET **/
+
+* {
+    margin:0;
+    padding:0;
+    font-size:100%;
+}
+
+body {
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "游ゴシック", YuGothic, "メイリオ", Meiryo, sans-serif;
+    font-size:16px;
+    text-align:center;
+    margin:0 auto;
+    background:#fff;
+    color:#3d3e3f;
+    line-height:1;
+    width:100%;
+}
+
+div,dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6,pre,form, fieldset, input, textarea,p, blockquote,
+span, em {
+    font-style: normal;
+    padding:0;
+    margin:0;
+}
+
+h1, h2, h3, h4, h5, h6,pre,form, fieldset, input, textarea, blockquote,em {
+    text-decoration:none;
+    font-size:100%;
+    font-weight:normal;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+ul {
+    list-style:none outside;
+}
+
+li {
+    list-style:none outside;
+}
+
+img{
+    border: none;
+    vertical-align:bottom;
+}
+
+input,select{
+    vertical-align:middle;
+}
+
+
+/** GLOBAL **/
+.none {	display: none;}
+
+.back_img_none {	background:none !important;}
+
+.fclear {	clear:both;}
+
+a:hover img.over_alp {
+    -ms-filter: "alpha( opacity=70 )";
+    filter: alpha( opacity=70 );
+    opacity: 0.7;
+}
+
+.over_alp a:hover{
+    -ms-filter: "alpha( opacity=70 )";
+    filter: alpha( opacity=70 );
+    opacity: 0.7;
+}
+
+
+a{
+    color:#000;
+    text-decoration: underline;
+}
+
+.alignl {	text-align:left !important;}
+.alignc {	text-align:center !important;}
+.alignr {	text-align:right !important;}
+/* vertical-align */
+.valignt {	vertical-align:top !important;}
+.valignm {	vertical-align:middle !important;}
+.valignb {	vertical-align:bottom !important;}
+/*font*/
+.fsize10{	font-size:83%;}
+.fsize12{	font-size:92%;}
+.fsize14{	font-size:107%;}
+.font_b{	font-weight:bold;!important;}
+.font_n{	font-weight:100;!important;}
+
+/* border */
+.border0 {	border:none !important;}
+.border_l_0 {	border-left:none !important;}
+.border_r_0 {	border-right:none !important;}
+.border_t_0 {	border-top:none !important;}
+.border_b_0 {	border-bottom:none !important;}
+
+/* margin */
+.mgn0 {	margin:0px !important;}
+/* margin-top */
+.mt0 {	margin-top:0px !important;}
+.mt5 {	margin-top:5px !important;}
+.mt10 {	margin-top:10px !important;}
+.mt20 {	margin-top:20px !important;}
+.mt30 {	margin-top:30px !important;}
+.mt35 {	margin-top:35px !important;}
+.mt40 {	margin-top:40px !important;}
+.mt50 {	margin-top:50px !important;}
+.mt60 {	margin-top:60px !important;}
+.mt70 {	margin-top:70px !important;}
+.mt100 {	margin-top:100px !important;}
+/* margin-right */
+.mr0 {	margin-right:0px !important;}
+.mr5 {	margin-right:5px !important;}
+.mr10 {	margin-right:10px !important;}
+/* margin-bottom */
+.mb0 {	margin-bottom:0px !important;}
+.mb10 {	margin-bottom:10px !important;}
+.mb15 {	margin-bottom:15px !important;}
+.mb20 {	margin-bottom:20px !important;}
+.mb30 {	margin-bottom:30px !important;}
+.mb40 {	margin-bottom:40px !important;}
+.mb45 {	margin-bottom:45px !important;}
+.mb50 {	margin-bottom:50px !important;}
+.mb60 {	margin-bottom:60px !important;}
+.mb70 {	margin-bottom:70px !important;}
+/* margin-left */
+.ml0 {	margin-left:0px !important;}
+.ml5 {	margin-left:5px !important;}
+.ml10 {	margin-left:10px !important;}
+.ml50 {	margin-left:50px !important;}
+/* padding-top */
+.pt0 {	padding-top:0px !important;}
+.pt20 {	padding-top:20px !important;}
+/* padding-right */
+.pr0 {	padding-right:0px !important;}
+.pr5 {	padding-right:5px !important;}
+.pr10 {	padding-right:10px !important;}
+/* padding-bottom */
+.pb0 {	padding-bottom:0px !important;}
+.pb5 {	padding-bottom:5px !important;}
+/* padding-left */
+.pl0 {	padding-left:0px !important;}
+.pl5 {	padding-left:5px !important;}
+.pl10 {	padding-left:10px !important;}
+
+/* clearfix */
+.clearfix:after{
+    content: ".";
+    display: block;
+    height: 0;
+    font-size:0;
+    clear: both;
+    visibility:hidden;
+}
+.clearfix{
+    display: inline-block;
+}
+/* Hides from IE Mac */
+* html .clearfix{
+    height: 1%;
+}
+.clearfix{
+    display:block;
+}
+
+/*
+     FILE ARCHIVED ON 18:46:44 Aug 23, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:52:56 Mar 19, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.116
+  exclusion.robots.policy: 0.099
+  cdx.remote: 0.168
+  esindex: 0.015
+  LoadShardBlock: 218.528 (6)
+  PetaboxLoader3.datanode: 181.66 (8)
+  load_resource: 252.37 (2)
+  PetaboxLoader3.resolve: 121.513 (2)
+*/
